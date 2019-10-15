@@ -1,2 +1,2 @@
 # testSheriff
-for testing sheriff project
+for testing sheriff project sample
